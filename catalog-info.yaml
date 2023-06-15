@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform_secure_your_cred
+  annotations:
+    github.com/project-slug: shubham-syngenta/terraform_secure_your_cred
+spec:
+  type: other
+  lifecycle: unknown
+  owner: shubham
