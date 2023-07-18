@@ -4,6 +4,7 @@ metadata:
   name: terraform_secure_your_cred
   annotations:
     github.com/project-slug: shubham-syngenta/terraform_secure_your_cred
+    circleci.com/project-slug: github/shubham-syngenta/terraform_secure_your_cred
 spec:
   type: other
   lifecycle: unknown
